@@ -1,0 +1,23 @@
+{
+  "name": "hiren-humbal",
+  "version": "1.0.0",
+  "description": "an npm package for testing purpose by hiren humbal",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiren-humbal/npm-hiren-humbal.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Humbal Hiren",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hiren-humbal/npm-hiren-humbal/issues"
+  },
+  "homepage": "https://github.com/hiren-humbal/npm-hiren-humbal#readme"
+}
